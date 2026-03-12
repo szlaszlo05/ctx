@@ -1,4 +1,5 @@
 # ctx
+<<<<<<< HEAD
 This windows tool recursively scans directories, filters by extension, ignores specified folders, and produces chunked text files suitable for LLM context windows.
 
 extensions.cfg:
@@ -19,3 +20,6 @@ Both of these files have default values that can be found (and modified) in the 
 Default values only apply if config files are damaged or can't be found
 
 If -i flag is set, the tool will ignore the hidden files (.gitignore for example)
+=======
+This windows tool recursively scans directories, filters files by extension, ignores specified folders, and produces chunked text files suitable for LLM context windows. 
+>>>>>>> 22623d6fb55dadcf5393cdeafbc8da9018c5421e
