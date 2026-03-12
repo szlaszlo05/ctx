@@ -1,0 +1,38 @@
+[Log] Successfully loaded 15 accepted extensions
+[Log] Successfully loaded 1 ignored directiries[Log] Scanning vizsga1
+[Log] Skipping over .
+[Log] Skipping over ..
+[Log] Scanning vizsga1/db
+[Log] Skipping over .
+[Log] Skipping over ..
+[Log] Switching to new output file: output_1.txt
+[Log] Processed: vizsga1/db/dbConnect.js
+[Log] Processed: vizsga1/db/dbCreate.js
+[Log] Processed: vizsga1/db/dbService.js
+[Log] Skipping over node_modules
+[Log] Scanning vizsga1/routes
+[Log] Skipping over .
+[Log] Skipping over ..
+[Log] Processed: vizsga1/routes/apiRoutes.js
+[Log] Processed: vizsga1/routes/viewRoutes.js
+[Log] Processed: vizsga1/server.js
+[Log] Scanning vizsga1/static
+[Log] Skipping over .
+[Log] Skipping over ..
+[Log] Scanning vizsga1/static/script
+[Log] Skipping over .
+[Log] Skipping over ..
+[Log] Processed: vizsga1/static/script/ajax.js
+[Log] Scanning vizsga1/static/style
+[Log] Skipping over .
+[Log] Skipping over ..
+[Log] Processed: vizsga1/static/style/style.css
+[Log] Scanning vizsga1/views
+[Log] Skipping over .
+[Log] Skipping over ..
+[Log] Scanning vizsga1/views/layouts
+[Log] Skipping over .
+[Log] Skipping over ..
+[Log] Scanning vizsga1/views/partials
+[Log] Skipping over .
+[Log] Skipping over ..
